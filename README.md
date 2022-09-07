@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋, I am Marie!
+
+A computer science student in the final semesters of her master's degree. I have some experiences with the technologies listed below. 
+
+---
+
+:toolbox:
 
 <!--
 **MLitzinger/MLitzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
