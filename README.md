@@ -6,6 +6,8 @@ A computer science student in the final semesters of her master's degree. I have
 
 :toolbox:
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python logo" width="50" height="50" \>
+
 <!--
 **MLitzinger/MLitzinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
